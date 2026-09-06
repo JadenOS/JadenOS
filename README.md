@@ -1,6 +1,10 @@
-# <h1 style="text-align:center;">Jaden M. Lawrence </h1>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="./assets/jaden-lawrence-dark-mode.png">
+<source media="prefers-color-scheme: light" srcset="./assets/jaden-lawrence-light-mode.png">
+<img src="./assets/jaden-lawrence-light-mode.png" alt="Banner">
+</picture>
 
-**<p style="text-align:center;">Aspiring Linux Engineer**</p>
+<h1 style="text-align:center;"><bold>Aspiring Linux Engineer</bold></h1>
 
 <p style="text-align:center;font-size:150%;">Greetings! <div style="text-align:center;font-size:120%;">
 Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experiments</u> and <b> technical abilities</b>.</p>
