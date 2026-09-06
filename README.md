@@ -1,6 +1,5 @@
 # <h1 style="text-align:center;">Jaden M. Lawrence </h1>
 
-
 **<p style="text-align:center;">Aspiring Linux Engineer**</p>
 
 <p style="text-align:center;font-size:150%;">Greetings! <div style="text-align:center;font-size:120%;">
