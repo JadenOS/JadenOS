@@ -18,7 +18,7 @@ Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experime
  🔧 Backend infrastructure <div>
  📊 Monitoring & troubleshooting </p>
 
-## <div>
+
 # Projects
 
 ### Vice Arcade
@@ -32,7 +32,6 @@ Personal technology lab focused on Linux infrastructure, systems, and automation
 
 A web-based card game project under the @ViceArcade IP used as a practical environment for learning deployment, backend infrastructure, and server administration.
 
-## <div>
 # Career Direction
 
 I'm working toward a career in:
@@ -40,8 +39,3 @@ I'm working toward a career in:
 **Linux Infrastructure → Systems Administration → DevOps / SRE**
 
 My goal is to become someone who can build, maintain, troubleshoot, and automate the systems that keep applications and services running reliably.
-
-## <div>
-# Links <div>
-🌐 [jadenlawrence.dev](https://https://www.jadenlawrence.dev)<br>
-🌐 [vicearcade.net](https://www.vicearcade.net)<br>
