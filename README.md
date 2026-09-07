@@ -32,12 +32,12 @@ Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experime
 
 Personal technology lab focused on Linux infrastructure, systems, and automation.
 
-**Technologies:** Ubuntu, Git, VMware <div>
-**Languages:** HTML, CSS, JavaScript, Python, Markup
-
 ### [Cadillac](https://www.vicearcade.net/cadillac)
 
 A web-based card game project under the [Vice Arcade](https://www.github.com/vicearcade) IP used as a practical environment for learning deployment, backend infrastructure, and server administration.
+
+**Technologies:** Ubuntu, Git, VMware <div>
+**Languages:** HTML, CSS, JavaScript, Python, Markup
 
 # Career Direction
 
