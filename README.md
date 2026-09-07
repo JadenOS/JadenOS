@@ -23,7 +23,7 @@ Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experime
  🔧 Backend infrastructure <div>
  📊 Monitoring & troubleshooting </p>
 
- # 💼 [My Portfolio](https://www.jadenlawrence.dev)
+ 💼 [My Portfolio](https://www.jadenlawrence.dev)
 
 
 # Projects
