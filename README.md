@@ -6,10 +6,10 @@
 
 <br>
 
-<h1 style="text-align:center;"><bold>Aspiring Linux Engineer</bold></h1>
+<h1 style="text-align:center;"><bold>Aspiring Linux Engineer</bold> </h1>
 
 <p style="text-align:center;font-size:150%;">Greetings! <div style="text-align:center;font-size:120%;">
-Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experiments</u> and <b> technical abilities</b>.</p>
+Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experiments</u> and <b> technical abilities</b>. </p>
 
 
 <p> Currently building hands-on experience with: <div>
@@ -22,6 +22,8 @@ Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experime
  🐳 Containers & virtualization <div>
  🔧 Backend infrastructure <div>
  📊 Monitoring & troubleshooting </p>
+
+ # 💼 [My Portfolio](https://www.jadenlawrence.dev)
 
 
 # Projects
