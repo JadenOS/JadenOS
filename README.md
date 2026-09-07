@@ -1,8 +1,10 @@
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./assets/jaden-lawrence-dark-mode.png">
-<source media="prefers-color-scheme: light" srcset="./assets/jaden-lawrence-light-mode.png">
+<source media="(prefers-color-scheme: dark)" srcset="./assets/jaden-lawrence-light-mode.png">
+<source media="prefers-color-scheme: light" srcset="./assets/jaden-lawrence-dark-mode.png">
 <img src="./assets/jaden-lawrence-light-mode.png" alt="Banner">
 </picture>
+
+<br>
 
 <h1 style="text-align:center;"><bold>Aspiring Linux Engineer</bold></h1>
 
