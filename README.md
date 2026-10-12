@@ -28,7 +28,7 @@ Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experime
 
 # Projects
 
-### [Vice Arcade](https://www.vicearcade.net)
+### [Vice Arcade](https://github.com/vicearcade)
 
 Personal technology lab focused on Linux infrastructure, systems, and automation.
 
