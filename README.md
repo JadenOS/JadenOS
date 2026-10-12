@@ -32,7 +32,7 @@ Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experime
 
 Personal technology lab focused on Linux infrastructure, systems, and automation.
 
-### [Cadillac](https://www.vicearcade.net/cadillac)
+### [Cadillac](https://github.com/vicearcade)
 
 A web-based card game project under the [Vice Arcade](https://www.github.com/vicearcade) IP used as a practical environment for learning deployment, backend infrastructure, and server administration.
 
