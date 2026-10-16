@@ -1,21 +1,3 @@
-<picture>
- 
-<source 
-media="(prefers-color-scheme: dark)" 
-srcset="./assets/jaden-lawrence-light-mode.png">
-
-<source
-media="(prefers-color-scheme: light)" 
-srcset="./assets/jaden-lawrence-dark-mode.png">
-
-<img 
-src="./assets/jaden-lawrence-dark-mode.png" 
-alt="Banner">
-
-</picture>
-
-<br>
-
 <h1 
 style="text-align:center;">
 <bold>Aspiring Linux Engineer</bold>
@@ -27,7 +9,6 @@ Greetings!
 <div style="text-align:center;font-size:120%;">
  
 Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experiments</u> and <b> technical abilities</b>. </p>
-
 
 <p> Currently building hands-on experience with: <div>
  🐧 Linux <div>
