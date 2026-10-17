@@ -39,7 +39,7 @@ function elapsedTime(now) {
   const minutes = Math.floor(seconds / 60);
   seconds %= 60;
 
-  return `${years} years, ${months} months, ${days} days, ${String(hours).padStart(2, "0")} hours, ${String(minutes).padStart(2, "0")} minutes, and ${String(seconds).padStart(2, "0")} seconds.`;
+  return `${years} years, ${months} months, ${days} days, ${String(hours).padStart(2, "0")} hours, ${String(minutes).padStart(2, "0")} minutes, and ${String(seconds).padStart(2, "0")} seconds ago.`;
 }
 
 export default {
@@ -48,7 +48,7 @@ export default {
 
     const svg = `
       <svg xmlns="http://www.w3.org/2000/svg"
-           width="500" height="20" viewBox="0 0 500 20">
+           width="650" height="32" viewBox="0 0 650 32">
         <text x="0" y="22"
           font-family="-apple-system"
           font-size="16"
