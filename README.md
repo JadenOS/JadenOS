@@ -1,11 +1,11 @@
 
 # Aspiring Linux Engineer
 
-*To all those who shall see these presents, Greetings!*
+### *To all those who shall see these presents, Greetings!*
 
 Welcome to my GitHub profile, where I document my beloved passion for computer science.
 
-## Currently Building Hands-On Experience With
+## Currently Building Hands-On Experience With:
 
 - 🐧 Linux
 - 🌐 Networking
@@ -29,7 +29,7 @@ Personal technology lab focused on Linux infrastructure, systems, and automation
 
 A web-based card game project used as a practical environment for learning deployment, backend infrastructure, and server administration.
 
-**Technologies:** Ubuntu, Git, VMware, Cloudflare Workers
+**Technologies:** Ubuntu, Git, VMware, Cloudflare Workers, Node.js
 
 **Languages:** HTML, CSS, JavaScript, Python, Markdown
 
