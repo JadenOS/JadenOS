@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile, where I document my beloved passion for computer science.
 
-To put it into perspective, my love for the technological world began ![Passion Counter](https://passion-counter.jaescode17.workers.dev/) ago.
+To put it into perspective, my love for the technological world began ![Passion Counter](https://passion-counter.jaescode17.workers.dev/).
 
 ## Currently Building Hands-On Experience With
 
