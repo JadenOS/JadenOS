@@ -1,6 +1,0 @@
-{
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "passion-counter",
-  "main": "./index.js",
-  "compatibility_date": "2026-10-16"
-}
