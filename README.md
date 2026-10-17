@@ -1,30 +1,27 @@
-<h1 
-style="text-align:center;">
-<bold>Aspiring Linux Engineer</bold>
-</h1>
 
-<p 
-style="text-align:center;font-size:150%;">
-Greetings!
-<div style="text-align:center;font-size:120%;">
- 
-Welcome to my GitHub profile, where I document<br> my <u>digital</u> <u>experiments</u> and <b> technical abilities</b>. </p>
+# Aspiring Linux Engineer
 
-<p> Currently building hands-on experience with: <div>
- 🐧 Linux <div>
- 🌐 Networking <div>
- 🔐 System security <div>
- ⚙️ Automation <div>
- 🖥️ Server administration <div>
- 📦 Git<div>
- 🐳 Containers & virtualization <div>
- 🔧 Backend infrastructure <div>
- 📊 Monitoring & troubleshooting </p>
+*To all those who shall see these presents, Greetings!*
 
- 💼 [My Portfolio](https://www.jadenlawrence.dev)
+Welcome to my GitHub profile, where I document my beloved passion for computer science.
 
+To put it into perspective, my love for the technological world began ![Passion Counter](https://passion-counter.jaescode17.workers.dev/) ago.
 
-# Projects
+## Currently Building Hands-On Experience With
+
+- 🐧 Linux
+- 🌐 Networking
+- 🔐 System security
+- ⚙️ Automation
+- 🖥️ Server administration
+- 📦 Git
+- 🐳 Containers & virtualization
+- 🔧 Backend infrastructure
+- 📊 Monitoring & troubleshooting
+
+💼 [My Portfolio](https://www.jadenlawrence.dev)
+
+## Projects
 
 ### [Vice Arcade](https://github.com/vicearcade)
 
@@ -34,10 +31,11 @@ Personal technology lab focused on Linux infrastructure, systems, and automation
 
 A web-based card game project used as a practical environment for learning deployment, backend infrastructure, and server administration.
 
-**Technologies:** Ubuntu, Git, VMware <div>
-**Languages:** HTML, CSS, JavaScript, Python, Markup
+**Technologies:** Ubuntu, Git, VMware, Cloudflare Workers
 
-# Career Direction
+**Languages:** HTML, CSS, JavaScript, Python, Markdown
+
+## Career Direction
 
 I'm working toward a career in:
 
