@@ -29,9 +29,9 @@ Personal technology lab focused on Linux infrastructure, systems, and automation
 
 A web-based card game project used as a practical environment for learning deployment, backend infrastructure, and server administration.
 
-**Technologies:** Ubuntu, Git, VMware, Cloudflare Workers, Node.js
+**Technologies:** Ubuntu, Git, VMware, Cloudflare Workers, Node.js, SSH
 
-**Languages:** HTML, CSS, JavaScript, Python, Markdown
+**Languages:** HTML, CSS, JavaScript, Markdown
 
 ## Career Direction
 
