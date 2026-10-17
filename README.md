@@ -21,11 +21,11 @@ Welcome to my GitHub profile, where I document my beloved passion for computer s
 
 ## Projects
 
-### [Vice Arcade](https://github.com/vicearcade)
+### [Jaden's Lab](https://github.com/jadenslab)
 
 Personal technology lab focused on Linux infrastructure, systems, and automation.
 
-### [Cadillac](https://github.com/vicearcade)
+### [Cadillac](https://github.com/jadenslab)
 
 A web-based card game project used as a practical environment for learning deployment, backend infrastructure, and server administration.
 
