@@ -48,9 +48,9 @@ export default {
 
     const svg = `
       <svg xmlns="http://www.w3.org/2000/svg"
-           width="650" height="32" viewBox="0 0 650 32">
+           width="600" height="32" viewBox="0 0 600 32">
         <text x="0" y="22"
-          font-family="-apple-system"
+          font-family="monospace"
           font-size="16"
           fill="#ffffff">${elapsed}</text>
       </svg>`;
