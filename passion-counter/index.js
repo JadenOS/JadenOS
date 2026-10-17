@@ -48,11 +48,11 @@ export default {
 
     const svg = `
       <svg xmlns="http://www.w3.org/2000/svg"
-           width="700" height="32" viewBox="0 0 700 32">
+           width="380" height="20" viewBox="0 0 380 20">
         <text x="0" y="22"
-          font-family="monospace"
+          font-family="-apple-system"
           font-size="16"
-          fill="#808080">${elapsed}</text>
+          fill="#ffffff">${elapsed}</text>
       </svg>`;
 
     return new Response(svg, {
