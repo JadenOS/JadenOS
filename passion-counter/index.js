@@ -48,7 +48,7 @@ export default {
 
     const svg = `
       <svg xmlns="http://www.w3.org/2000/svg"
-           width="380" height="20" viewBox="0 0 380 20">
+           width="420" height="16" viewBox="0 0 420 16">
         <text x="0" y="22"
           font-family="-apple-system"
           font-size="16"
