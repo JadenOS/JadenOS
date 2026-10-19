@@ -7,27 +7,30 @@ Welcome to my GitHub profile, where I document my beloved passion for computer s
 
 ## Currently Building Hands-On Experience With:
 
-- 🐧 Linux
-- 🌐 Networking
-- 🔐 System security
-- ⚙️ Automation
-- 🖥️ Server administration
-- 📦 Git
-- 🐳 Containers & virtualization
-- 🔧 Backend infrastructure
-- 📊 Monitoring & troubleshooting
-
-💼 [My Portfolio](https://www.jadenlawrence.dev)
+- Linux
+- Networking
+- System security
+- Automation
+- Server administration
+- Git
+- Containers & virtualization
+- Backend infrastructure
+- Monitoring & troubleshooting
+- Application development & deployment
 
 ## Projects
 
-### [Jaden's Lab](https://github.com/jadenslab)
+### [Jaden's Lab](https://github.com/jadenlawrence-dev/jadenslab)
 
 Personal technology lab focused on Linux infrastructure, systems, and automation.
 
-### [Cadillac](https://github.com/jadenslab)
+### [Cadillac](https://github.com/jadenlawrence-dev/cadillac)
 
 A web-based card game project used as a practical environment for learning deployment, backend infrastructure, and server administration.
+
+### [Vicedio](https://github.com/jadenlawrence-dev/vicedio)
+
+Open-source soundboard with modular audio processing and playback components with an emphasis on low latency, memory efficiency, and reliability. 
 
 **Technologies:** Ubuntu, Git, VMware, SSH
 
