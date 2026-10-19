@@ -20,7 +20,7 @@ Welcome to my GitHub profile, where I document my beloved passion for computer s
 
 ## Projects
 
-### [Jaden's Lab](https://github.com/jadenlawrence-dev/jadenslab)
+### [Jaden's Lab](https://github.com/jadenlawrence-dev/jadens-lab)
 
 Personal technology lab focused on Linux infrastructure, systems, and automation.
 
