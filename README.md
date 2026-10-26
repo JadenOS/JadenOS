@@ -1,45 +1,42 @@
-
 # Aspiring Linux Engineer
 
 ### *To all those who shall see these presents, Greetings!*
 
-Welcome to my GitHub profile, where I document my beloved passion for computer science.
+Welcome to my GitHub profile, where I document my journey through computer science, Linux infrastructure, and systems engineering.
 
-## Currently Building Hands-On Experience With:
+## Areas of Focus
 
-- Linux
-- Networking
-- System security
-- Automation
-- Server administration
-- Git
-- Containers & virtualization
+- Linux systems and server administration
+- Networking and system security
+- Automation and scripting
+- Containers and virtualization
 - Backend infrastructure
-- Monitoring & troubleshooting
-- Application development & deployment
+- Monitoring and troubleshooting
+- Application deployment and development
+- Version control with Git
 
 ## Projects
 
 ### [Jaden's Lab](https://github.com/jadenlawrence-dev/jadens-lab)
 
-Personal technology lab focused on Linux infrastructure, systems, and automation.
+Personal technology lab focused on Linux infrastructure, systems administration, and automation.
 
 ### [Cadillac](https://github.com/jadenlawrence-dev/cadillac)
 
-A web-based card game project used as a practical environment for learning deployment, backend infrastructure, and server administration.
+A web-based card game serving as a practical environment for exploring backend development, deployment, and server administration.
 
 ### [Vicedio](https://github.com/jadenlawrence-dev/vicedio)
 
-Open-source soundboard with modular audio processing and playback components with an emphasis on low latency, memory efficiency, and reliability. 
+An open-source soundboard with modular audio processing and playback components, designed with an emphasis on low latency, memory efficiency, and reliability.
+
+## Technical Skills
 
 **Technologies:** Ubuntu, Git, VMware, SSH
 
-**Languages:** HTML, CSS, JavaScript, Markdown
+**Languages & Markup:** HTML, CSS, JavaScript, Markdown
 
 ## Career Direction
 
-I'm working toward a career in:
+I'm working toward a career in Linux infrastructure and systems engineering, with a long-term interest in systems administration, development operations, and site reliability engineering.
 
-**Linux Infrastructure -> Systems Administration -> DevOps / SRE**
-
-My goal is to become someone who can build, maintain, troubleshoot, and automate the systems that keep applications and services running reliably.
+My goal is to build, maintain, troubleshoot, and automate the systems that keep applications and services running reliably.
