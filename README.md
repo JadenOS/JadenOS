@@ -17,15 +17,15 @@ Welcome to my GitHub profile, where I document my journey through computer scien
 
 ## Projects
 
-### [Jaden's Lab](https://github.com/jadenlawrence-dev/jadens-lab)
+### [Jaden's Lab](https://github.com/jadenos/jadens-lab)
 
 Personal technology lab focused on Linux infrastructure, systems administration, and automation.
 
-### [Cadillac](https://github.com/jadenlawrence-dev/cadillac)
+### [Cadillac](https://github.com/jadenos/cadillac)
 
 A web-based card game serving as a practical environment for exploring backend development, deployment, and server administration.
 
-### [Vicedio](https://github.com/jadenlawrence-dev/vicedio)
+### [Vicedio](https://github.com/jadenos/vicedio)
 
 An open-source soundboard with modular audio processing and playback components, designed with an emphasis on low latency, memory efficiency, and reliability.
 
