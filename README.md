@@ -31,9 +31,27 @@ An open-source soundboard with modular audio processing and playback components,
 
 ## Technical Skills
 
-**Technologies:** Ubuntu, Git, VMware, SSH
+**Operating Systems & Virtualization**
 
-**Languages & Markup:** HTML, CSS, JavaScript, Markdown
+- Ubuntu Server
+- Windows
+- VMware
+
+**Networking & Security**
+
+- SSH
+- UFW
+
+**Development Tools**
+
+- Git
+
+**Languages & Markup**
+
+- HTML
+- CSS
+- JavaScript
+- Markdown
 
 ## Career Direction
 
