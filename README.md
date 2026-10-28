@@ -1,4 +1,4 @@
-# Aspiring Computer Scientist
+# Aspiring Computer Scientist | U.S. Navy Sonar Technician (Surface)
 
 ### *To all those who shall see these presents, Greetings!*
 
