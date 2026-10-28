@@ -1,4 +1,4 @@
-# Aspiring Linux Engineer
+# Aspiring Computer Scientist
 
 ### *To all those who shall see these presents, Greetings!*
 
