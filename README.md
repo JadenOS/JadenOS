@@ -12,8 +12,7 @@ Welcome to my GitHub profile, where I document my journey through computer scien
 - Containers and virtualization
 - Backend infrastructure
 - Monitoring and troubleshooting
-- Application deployment and development
-- Version control with Git
+- Application development and deployment
 
 ## Projects
 
@@ -29,24 +28,7 @@ A web-based card game serving as a practical environment for exploring backend d
 
 An open-source soundboard with modular audio processing and playback components, designed with an emphasis on low latency, memory efficiency, and reliability.
 
-## Technical Skills
-
-**Operating Systems & Virtualization**
-
-- Ubuntu Server
-- Windows
-- VMware
-
-**Networking & Security**
-
-- SSH
-- UFW
-
-**Development Tools**
-
-- Git
-
-**Languages & Markup**
+## Languages & Markup
 
 - HTML
 - CSS
@@ -55,6 +37,6 @@ An open-source soundboard with modular audio processing and playback components,
 
 ## Career Direction
 
-I'm working toward a career in Linux infrastructure and systems engineering, with a long-term interest in systems administration, development operations, and site reliability engineering.
+I'm working toward a career in Linux infrastructure and systems engineering, with a long-term interest in DevOps, cloud computing, and SRE.
 
 My goal is to build, maintain, troubleshoot, and automate the systems that keep applications and services running reliably.
