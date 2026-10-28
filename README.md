@@ -2,7 +2,7 @@
 
 ### *To all those who shall see these presents, Greetings!*
 
-Welcome to my GitHub profile, where I document my beloved passion for computer science.
+Welcome to my GitHub profile, dedicated to my passion for computer science.
 
 ## Areas of Focus
 
