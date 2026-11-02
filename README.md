@@ -28,12 +28,14 @@ A web-based card game serving as a practical environment for exploring backend a
 
 An open-source soundboard with modular audio processing and playback components, designed with an emphasis on low latency, memory efficiency, and reliability.
 
-## Languages & Markup
+## Languages & Other
 
+- Python
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 - Markdown
+
 
 ## Career Direction
 
