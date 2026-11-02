@@ -22,7 +22,7 @@ Personal technology lab focused on Linux infrastructure, systems administration,
 
 ### [Cadillac](https://github.com/jadenos/cadillac)
 
-A web-based card game serving as a practical environment for exploring backend development, deployment, and server administration.
+A web-based card game serving as a practical environment for exploring backend and frontend development and deployment.
 
 ### [Vicedio](https://github.com/jadenos/vicedio)
 
