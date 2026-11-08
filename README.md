@@ -39,6 +39,6 @@ An open-source soundboard with modular audio processing and playback components,
 
 ## Career Direction
 
-I'm working toward a career in Linux infrastructure and systems engineering, with a long-term interest in DevOps, cloud computing, and SRE.
+I'm working toward a career in Linux infrastructure and systems engineering, with a long term interest in DevOps, cloud computing, and SRE.
 
 My goal is to build, maintain, troubleshoot, and automate the systems that keep applications and services running reliably.
