@@ -18,20 +18,22 @@ Welcome to my GitHub profile, dedicated to my passion for computer science.
 
 ### [Jaden's Lab](https://github.com/jadenos/jadens-lab)
 
-Personal technology lab focused on Linux infrastructure, systems administration, and automation.
+Personal technology lab focused on Linux infrastructure and system administration.
 
-### [Cadillac](https://github.com/jadenos/cadillac)
+### [Minetracker](https://github.com/jadenos/minetracker)
 
-A web-based card game serving as a practical environment for exploring backend and frontend development and deployment.
+A Python based program designed to track hours across all Minecraft vanilla and modded installations.
 
-### [Vicedio](https://github.com/jadenos/vicedio)
+### [JA3](https://github.com/jadenos/ja3)
 
-An open-source soundboard with modular audio processing and playback components, designed with an emphasis on low latency, memory efficiency, and reliability.
+A locally hosted AI assistant with an emphasis on hardware dependent performance.
 
 ## Languages & Other
 
 - Python
-- JavaScript
+- Bash
+- SQL
+- C
 - HTML
 - CSS
 - Markdown
