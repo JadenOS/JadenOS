@@ -16,7 +16,7 @@ Welcome to my GitHub profile, dedicated to my passion for computer science.
 
 ## Projects
 
-### [Jaden's Lab](https://github.com/jadenos/jadens-lab)
+### [ViceX](https://github.com/jadenos/vicex)
 
 Personal technology lab focused on Linux infrastructure and system administration.
 
